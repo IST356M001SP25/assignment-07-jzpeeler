@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Jonah Peeler
+Sudent Email:  jzpeeler@syr.edu
 
 ## Instructions
 
@@ -22,4 +22,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
-
+I learned how to make a complete web scraping pipeline using playwright. I learned how to navigate and extract structured data from a ebpage using CSS and Xpath selectors, and how to sory yhrm by d]extected data 
